@@ -1,0 +1,36 @@
+body {
+  background-color: #393E46;
+  color: white; }
+
+.navbar {
+  background: #FD7014;
+  margin-bottom: 25px; }
+
+.nav-item {
+  color: white; }
+
+.jumbotron {
+  background: #222831;
+  margin: 0px;
+  padding: 40px;
+  color: white; }
+
+footer {
+  background: #222831;
+  color: white;
+  margin: 0px;
+  padding: 30px; }
+
+.card {
+  background: #222831;
+  color: white;
+  margin-top: 20px;
+  margin-bottom: 20px; }
+
+#sendMail {
+  display: inline-block;
+  color: white; }
+
+#covidFree {
+  margin-top: 15px;
+  margin-bottom: 15px; }

@@ -1,0 +1,50 @@
+$colorPrimary: #222831;
+$colorSecondary: #393E46;
+$colorMain: #EEEEEE;
+$colorPop: #FD7014;
+
+body {
+    background-color: $colorSecondary;
+    color: white
+}
+
+.navbar {
+    background: $colorPop;
+    margin-bottom: 25px;
+    
+}
+
+.nav-item {
+    color: white
+}
+
+.jumbotron {
+    background: $colorPrimary;
+    margin: 0px;
+    padding: 40px;
+    color: white
+}
+
+footer {
+    background: $colorPrimary;
+    color: white;
+    margin: 0px;
+    padding: 30px
+}
+
+.card {
+    background: $colorPrimary;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#sendMail {
+    display: inline-block;
+    color: white
+}
+
+#covidFree {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
